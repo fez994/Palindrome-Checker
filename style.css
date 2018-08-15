@@ -1,0 +1,42 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+body {
+	background-color: #001f3f;
+}
+
+#title {
+	text-align: center;
+	font-family: Poppins, sans-serif;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 0.3em;
+}
+
+.center {
+	padding-top: 3%;
+	text-align: center;
+}
+
+
+#true_or_false {
+	padding-top: 2%;
+	color: white;
+	letter-spacing: 0.1em;
+	font-family: Poppins, sans-serif;
+}
+
+#submit {
+	font-family: Poppins, sans-serif;
+	background-color: transparent;
+	color: white;
+	letter-spacing: 2px;
+}
+
+
+#submit:focus {
+	outline: 0;
+}
+
+#text-field-id {
+	font-family: Poppins, sans-serif;
+}
